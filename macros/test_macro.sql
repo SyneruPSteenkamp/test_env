@@ -1,0 +1,3 @@
+{% macro printFoo() %}
+    foo
+{% endmacro %}
