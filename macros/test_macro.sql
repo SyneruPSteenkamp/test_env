@@ -1,3 +1,3 @@
 {% macro printFoo() %}
-    foo
-{% endmacro %}
+    foo dbtsss
+{% endmacro %} 
